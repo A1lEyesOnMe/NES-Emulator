@@ -1,6 +1,7 @@
 # NES-Emulator
 
 #### Day1 实现CPU与总线
+#### DAY2 连接PPU、Cartridge、Mapper到总线
 
 
 
